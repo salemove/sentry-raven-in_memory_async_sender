@@ -1,3 +1,18 @@
+# ⚠️ THIS REPOSITORY IS DEPRECATED AND WILL BE CLOSED
+
+**This repository will be made read-only and permanently closed on July 18, 2025.**
+
+The functionality of this project has been superseded by a new, actively maintained SDK. This repository is now in maintenance mode, and we will not be providing further feature updates or support.
+
+---
+
+### **Migration Required**
+
+If you are using this client, we strongly recommend you migrate to the new SDK to continue receiving updates, bugfixes, and new features. Please see details in **[sentry-ruby](https://github.com/getsentry/sentry-ruby?tab=readme-ov-file#migrate-from-sentry-raven)**.
+
+* **Migration guide:** Please see migration guide for sentry-raven **[Migration Guide](https://docs.sentry.io/platforms/ruby/migration/)**.
+
+
 # Raven::InMemoryAsyncSender
 
 ## Installation
