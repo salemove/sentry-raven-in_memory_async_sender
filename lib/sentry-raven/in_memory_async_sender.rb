@@ -11,6 +11,8 @@ module Raven
     end
 
     def call(event)
+      @logger.info('Raven::InMemoryAsyncSender is called')
+
       ensure_workers_running
       return will_not_deliver(event) if @unsent.size >= @unsent.max
 
